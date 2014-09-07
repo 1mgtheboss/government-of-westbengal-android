@@ -1,4 +1,4 @@
 government-of-westbengal-android
 ================================
 
-Government Of West Bengal
+© 2014 Manojit Ghosh
